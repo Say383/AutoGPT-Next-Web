@@ -146,7 +146,7 @@ devDependencies:
     specifier: ^5.17.0
     version: 5.17.0
   '@testing-library/react':
-    specifier: ^14.0.0
+    specifier: ^14.1.2
     version: 14.1.2(react-dom@18.2.0)(react@18.2.0)
   '@types/micro-cors':
     specifier: ^0.1.2
